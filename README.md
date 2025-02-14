@@ -5,7 +5,7 @@ Welcome to the **AI_in_Healthcare** repository. This project is dedicated to add
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Areas of interest](#use-cases)
+- [Areas of interest](#areas-of-interest)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
