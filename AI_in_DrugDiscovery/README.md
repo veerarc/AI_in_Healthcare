@@ -17,4 +17,7 @@ Artificial Intelligence (AI) is transforming the landscape of drug discovery by 
 
 - **Drug Repurposing**: By analyzing existing drugs and their mechanisms, AI identifies new therapeutic uses for approved or shelved drugs, potentially reducing development time and costs.
 
+![image](https://github.com/user-attachments/assets/a3886a84-8dd0-4520-8f7e-60c9e3e8bef8)
+
+
 - **Clinical Trials**: AI optimizes clinical trial protocols by identifying suitable patient populations, predicting outcomes, and enhancing recruitment strategies, thereby increasing the likelihood of trial success.
