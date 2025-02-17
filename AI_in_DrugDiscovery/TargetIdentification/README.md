@@ -5,6 +5,8 @@
 3. Textual mining
 4. Biological network analysis
 
+**Genomic Data Analysis**
+ - 
 **Business Impact**
 
 **Existing Solutions in Market** 
