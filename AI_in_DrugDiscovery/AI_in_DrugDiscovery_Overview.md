@@ -10,8 +10,7 @@ Artificial Intelligence (AI) is revolutionizing the pharmaceutical industry, off
    2.1 Define Problem Statements  
    2.2 Business Value  
    2.3 Use Case Table  
-3. [Prioritize Use Cases](#prioritize-use-cases)  
-4. [References](#references)  
+3. [References](#references)  
 
 
 # 1. Understand the Process
@@ -79,25 +78,4 @@ Artificial Intelligence (AI) is revolutionizing the pharmaceutical industry, off
 | Genomic data           | Deep learning        | Biomarker identification             |
 | Protein structures     | Structural modeling  | Drug-target interaction predictions  |
 
-# 3. Prioritize Use Cases
-
-*3.1 Prioritization Criteria*: Evaluate use cases based on:
-
-- **ROI**: Expected financial returns.
-
-- **Feasibility**: Technical and operational viability.
-
-- **Data Availability**: Accessibility and quality of required data.
-
-*3.2 Prioritization Table*:
-
-| Use Case                     | ROI   | Feasibility | Data Availability | Priority |
-|------------------------------|-------|-------------|-------------------|----------|
-| Predicting drug efficacy     | High  | Medium      | High              | 1        |
-| Patient outcome predictions  | Medium| High        | Medium            | 2        |
-| Biomarker identification     | High  | Medium      | Medium            | 3        |
-| Drug-target interaction predictions | Medium| Medium      | High              | 4        |
-
-Develop the Roadmap, by following this structured approach, enterprises can effectively integrate AI into their drug discovery processes, leading to enhanced efficiency and innovation.
-
-# 4. References
+# 3. References
