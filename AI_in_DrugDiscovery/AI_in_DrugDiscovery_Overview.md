@@ -101,11 +101,3 @@ Artificial Intelligence (AI) is revolutionizing the pharmaceutical industry, off
 Develop the Roadmap, by following this structured approach, enterprises can effectively integrate AI into their drug discovery processes, leading to enhanced efficiency and innovation.
 
 # 4. References
-
-1. Phases of clinical research. (2024). In *Wikipedia*. Retrieved from https://en.wikipedia.org/wiki/Phases_of_clinical_research
-2. Pharmaforschung. (2024). In *Wikipedia*. Retrieved from https://de.wikipedia.org/wiki/Pharmaforschung
-3. MIT Jameel Clinic. (2025). In *Wikipedia*. Retrieved from https://en.wikipedia.org/wiki/MIT_Jameel_Clinic
-4. Insilico Medicine. (2025). In *Wikipedia*. Retrieved from https://en.wikipedia.org/wiki/Insilico_Medicine
-5. Murgia, M. (2025, March 6). Protein project uses AI to boost disease treatment. *Financial Times*. Retrieved from https://www.ft.com/content/cc2ec1ae-f514-427b-94af-b865a28df7c3
-6. Pharma firms buy into promise of AI shortcut. (2025, November 12). *The Times*. Retrieved from https://www.thetimes.co.uk/article/pharma-firms-buy-into-promise-of-ai-shortcut-px5lckvxp
-
