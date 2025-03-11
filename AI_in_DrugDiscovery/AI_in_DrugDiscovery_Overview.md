@@ -14,7 +14,7 @@ Artificial Intelligence (AI) is revolutionizing the pharmaceutical industry, off
 4. [References](#references)  
 
 
-#1. Understand the Process
+# 1. Understand the Process
 
 *1.1 Breakdown the Process*: The drug discovery pipeline comprises several critical stages:
 
@@ -39,7 +39,7 @@ Artificial Intelligence (AI) is revolutionizing the pharmaceutical industry, off
 
 - **Low Success Rates**: Only a small fraction of drug candidates achieve approval.
 
-#2. AI Use Cases
+# 2. AI Use Cases
 
 *2.1 Define Problem Statements*: Specific challenges where AI can be impactful include:
 
@@ -79,7 +79,7 @@ Artificial Intelligence (AI) is revolutionizing the pharmaceutical industry, off
 | Genomic data           | Deep learning        | Biomarker identification             |
 | Protein structures     | Structural modeling  | Drug-target interaction predictions  |
 
-**3. Prioritize Use Cases**
+# 3. Prioritize Use Cases
 
 *3.1 Prioritization Criteria*: Evaluate use cases based on:
 
@@ -100,7 +100,7 @@ Artificial Intelligence (AI) is revolutionizing the pharmaceutical industry, off
 
 Develop the Roadmap, by following this structured approach, enterprises can effectively integrate AI into their drug discovery processes, leading to enhanced efficiency and innovation.
 
-**5. References**
+# 4. References
 
 1. Phases of clinical research. (2024). In *Wikipedia*. Retrieved from https://en.wikipedia.org/wiki/Phases_of_clinical_research
 2. Pharmaforschung. (2024). In *Wikipedia*. Retrieved from https://de.wikipedia.org/wiki/Pharmaforschung
